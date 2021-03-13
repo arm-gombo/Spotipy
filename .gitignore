@@ -1,0 +1,4 @@
+/.venv
+*.pyc
+Spotipy_project
+.cache
